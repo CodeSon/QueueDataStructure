@@ -1,2 +1,2 @@
-# QueueDataStructureS
-- Queue Data Structure Basics for Algorithms and data structures course at KTH
+# Queue Data Structures
+- Basics of Queue Data Structures implemented for Algorithms and data structures course at KTH
